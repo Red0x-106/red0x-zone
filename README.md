@@ -4,7 +4,7 @@ This is my personal website where I keep some of the projects I've made and a fe
 
 I wanted to make something that actually feels like my own site instead of using a normal portfolio template, so I made the layout and styling myself.
 
-https://red0x-106.github.io/red0x-zone/
+[https://red0x-106.github.io/red0x-zone/](https://red0x-106.github.io/red0x-zone/)
 
 ## What's on the site
 
@@ -12,25 +12,25 @@ https://red0x-106.github.io/red0x-zone/
 
 There is a small About Me section with some information about me and the site.
 
-<img width="1919" height="854" alt="image" src="https://github.com/user-attachments/assets/6c1dde71-9fd0-4ab9-9ccf-7405bea7ff13" />
+\<img width="1919" height="854" alt="image" src="[https://github.com/user-attachments/assets/6c1dde71-9fd0-4ab9-9ccf-7405bea7ff13](https://github.com/user-attachments/assets/6c1dde71-9fd0-4ab9-9ccf-7405bea7ff13)" />
 
 ### Stuff I Like
 
 This section shows some of the things I like and am interested in.
 
-<img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/1b884abf-86ec-435f-b8aa-c87112d89fbb" />
+\<img width="1919" height="969" alt="image" src="[https://github.com/user-attachments/assets/1b884abf-86ec-435f-b8aa-c87112d89fbb](https://github.com/user-attachments/assets/1b884abf-86ec-435f-b8aa-c87112d89fbb)" />
 
 ### My Projects
 
-There is a section showing some of the projects I've made. Each project can have its own information and link.
+There is a section showing some of the projects I've made. Each project has its own information and link.
 
-<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/5d056933-e83c-4b2a-afc8-8bf66966575c" />
+\<img width="1919" height="910" alt="image" src="[https://github.com/user-attachments/assets/5d056933-e83c-4b2a-afc8-8bf66966575c](https://github.com/user-attachments/assets/5d056933-e83c-4b2a-afc8-8bf66966575c)" />
 
 ### Links
 
 The website also has links to places where I'm active online.
 
-<img width="1919" height="898" alt="image" src="https://github.com/user-attachments/assets/931155cb-0e86-48a7-82e1-cb6e2f8aa327" />
+\<img width="1919" height="898" alt="image" src="[https://github.com/user-attachments/assets/931155cb-0e86-48a7-82e1-cb6e2f8aa327](https://github.com/user-attachments/assets/931155cb-0e86-48a7-82e1-cb6e2f8aa327)" />
 
 ## Projects
 
@@ -38,25 +38,25 @@ The website also has links to places where I'm active online.
 
 A browser-based desktop OS I made with HTML, CSS and JavaScript.
 
-Live: https://nexora.red0x.xyz/
+Live: [https://nexora.red0x.xyz/](https://nexora.red0x.xyz/)
 
 ### Lost Signal
 
 A small puzzle website based around hidden signals and clues.
 
-Live: https://red0x-106.github.io/Lost-signal.github.io/
+Live: [https://red0x-106.github.io/Lost-signal.github.io/](https://red0x-106.github.io/Lost-signal.github.io/)
 
 ### Image Converter
 
 A simple web tool for converting images between different formats.
 
-Live: https://red0x-106.github.io/Image-converter/
+Live: [https://red0x-106.github.io/Image-converter/](https://red0x-106.github.io/Image-converter/)
 
 ### Personal Dashboard
 
 A personal dashboard where I put useful information and tools together.
 
-Live: https://red0x-106.github.io/Personal-Dashboard/
+Live: [https://red0x-106.github.io/Personal-Dashboard/](https://red0x-106.github.io/Personal-Dashboard/)
 
 ## Built With
 
@@ -116,8 +116,10 @@ I also wanted to make the website myself instead of using a normal portfolio tem
 
 This site is also a place where I can add more projects later as I keep making things.
 
-## Status
+## AI Usage
 
-Finished and shipped for review.
+I used AI while working on this project for things like getting ideas, solving small problems and helping when I was stuck.
 
-Made by red0x 😎
+I still wrote, changed and tested the project myself. I decided what the website should contain, how it should look and which projects and links to include.
+
+I also checked the code and made changes while building the site instead of just taking AI output and submitting it without testing it.
