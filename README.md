@@ -124,8 +124,3 @@ I still wrote, changed and tested the project myself. I decided what the website
 
 I also checked the code and made changes while building the site instead of just taking AI output and submitting it without testing it.
 
-## Status
-
-Finished and shipped for review.
-
-Made by red0x 😎
